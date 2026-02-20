@@ -23,7 +23,7 @@ repository               : "reubenkt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Reuben Passport Photo.jpg"
+  avatar           : "Passport photo.jpg"
   name             : "Reuben Kuruvilla Thomas"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Public Health | Epidemiology | Research | Data Analytics | Data Visualization | 
